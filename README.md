@@ -1,1 +1,1 @@
-# AnalyticsEdge_R
+# Analytics_R
